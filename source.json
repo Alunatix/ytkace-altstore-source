@@ -22,12 +22,12 @@
         {
           "version": "21.32.4",
           "buildVersion": "21.32.4",
-          "marketingVersion": "YouTube 21.32.4 · YTKACE 0.8.3",
-          "date": "2026-08-09T18:52:15Z",
-          "localizedDescription": "Unmodified official upstream IPA from itzzace/ytkace.\n\n**YTKACE v0.8.3**\nby @itzzace0\n\n**What's new:**\n• Updated for YouTube 21.32.4\n• Added Japanese localization\n• Expanded localization across all 15 supported languages\n\n**Fixed:**\n• Improved Cast discovery and behavior after relaunching YouTube\n• Removed expensive Cast scanning that caused launch and feed lag\n• Reworked ad filtering for smoother feed scrolling\n• Reduced unnecessary playback processing and battery usage\n• Stopped SponsorBlock processing when the feature is disabled\n• Fixed missing translations throughout settings, downloads, players, and menus",
-          "downloadURL": "https://github.com/itzzace/ytkace/releases/download/v0.8.3/YTKACE_0.8.3_YouTube_21.32.4.ipa",
-          "size": 131837284,
-          "sha256": "ae99709a42327b2a048ce48302072a9c3ed629be1efd842ca70c32b4f44b0caf",
+          "marketingVersion": "YouTube 21.32.4 · YTKACE 0.8.4",
+          "date": "2026-08-17T00:49:04Z",
+          "localizedDescription": "Unmodified official upstream IPA from itzzace/ytkace.\n\nby @itzzace0\n\n**What’s new:**\n• Added default playback speed options\n• Added Last Used and custom playback speed modes\n• Added configurable brightness and volume gestures\n• Added gesture activation area and HUD options\n• Added options to remove community posts, mixes, and playables\n• Added options to hide individual video action buttons\n• Added an option to hide the Messages button\n\n**Fixed:**\n• Improved filtering for promoted and in-feed ads\n• Fixed gestures in fullscreen\n• Fixed conflicts with YouTube’s native gestures\n• Fixed Shorts downloads failing to find the active Short\n• Fixed Playback Fix causing recurring stutters during normal playback",
+          "downloadURL": "https://github.com/itzzace/ytkace/releases/download/v0.8.4/YTKACE_0.8.4_YouTube_21.32.4.ipa",
+          "size": 131859440,
+          "sha256": "411a71bfd05dbc43d59831840469a6227bb149b647f651d6ef1b183b2d07bdce",
           "minOSVersion": "16.0"
         }
       ],
