@@ -23,11 +23,11 @@
           "version": "21.32.4",
           "buildVersion": "21.32.4",
           "marketingVersion": "YouTube 21.32.4 · YTKACE 0.8.4",
-          "date": "2026-08-17T00:49:04Z",
-          "localizedDescription": "Unmodified official upstream IPA from itzzace/ytkace.\n\nby @itzzace0\n\n**What’s new:**\n• Added default playback speed options\n• Added Last Used and custom playback speed modes\n• Added configurable brightness and volume gestures\n• Added gesture activation area and HUD options\n• Added options to remove community posts, mixes, and playables\n• Added options to hide individual video action buttons\n• Added an option to hide the Messages button\n\n**Fixed:**\n• Improved filtering for promoted and in-feed ads\n• Fixed gestures in fullscreen\n• Fixed conflicts with YouTube’s native gestures\n• Fixed Shorts downloads failing to find the active Short\n• Fixed Playback Fix causing recurring stutters during normal playback",
+          "date": "2026-08-18T15:55:33Z",
+          "localizedDescription": "Unmodified official upstream IPA from itzzace/ytkace.\n\nby @itzzace0\n\n**What's new:**\n- Added default playback speed options\n- Added Last Used and custom playback speed modes\n- Added configurable brightness and volume gestures\n- Added gesture activation area and HUD options\n- Added options to remove community posts, mixes, and playables\n- Added options to hide individual video action buttons\n- Added an option to hide the Messages button\n\n**Fixed:**\n- Improved filtering for promoted and in-feed ads\n- Fixed gestures in fullscreen\n- Fixed conflicts with YouTube's native gestures\n- Fixed Shorts downloads failing to find the active Short\n- Fixed Playback Fix causing recurring stutters during normal playback",
           "downloadURL": "https://github.com/itzzace/ytkace/releases/download/v0.8.4/YTKACE_0.8.4_YouTube_21.32.4.ipa",
-          "size": 131859440,
-          "sha256": "411a71bfd05dbc43d59831840469a6227bb149b647f651d6ef1b183b2d07bdce",
+          "size": 130750300,
+          "sha256": "c1daf170d12f60224aaf608c9544dfc2e6b94ca5d515d7c1fe144dbe554d5046",
           "minOSVersion": "16.0"
         }
       ],
