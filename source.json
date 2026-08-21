@@ -2,7 +2,7 @@
   "name": "YTKACE — official IPA",
   "subtitle": "A minimal AltStore source that points directly to YTKACE's upstream IPA.",
   "description": "This source is maintained only as an AltStore index. It does not rebuild, inject, modify, or re-host YTKACE; every install downloads the IPA directly from the official itzzace/ytkace GitHub Release.",
-  "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/8c/5b/308c5b2e-3cba-9dbd-50d3-4f7593695c1e/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+  "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/f3/27/bcf32768-0d66-6d54-f426-040b4688b6e7/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
   "website": "https://github.com/Alunatix/ytkace-altstore-source",
   "tintColor": "#FF0000",
   "featuredApps": [
@@ -15,19 +15,19 @@
       "developerName": "itzzace0",
       "subtitle": "YouTube with YTKACE enhancements.",
       "localizedDescription": "YTKACE for iOS, distributed here without modification. The IPA URL points directly to the official upstream GitHub Release.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/8c/5b/308c5b2e-3cba-9dbd-50d3-4f7593695c1e/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/f3/27/bcf32768-0d66-6d54-f426-040b4688b6e7/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#FF0000",
       "category": "photo-video",
       "versions": [
         {
-          "version": "21.32.4",
-          "buildVersion": "21.32.4",
-          "marketingVersion": "YouTube 21.32.4 · YTKACE 0.8.4",
-          "date": "2026-08-18T15:55:33Z",
-          "localizedDescription": "Unmodified official upstream IPA from itzzace/ytkace.\n\nby @itzzace0\n\n**What's new:**\n- Added default playback speed options\n- Added Last Used and custom playback speed modes\n- Added configurable brightness and volume gestures\n- Added gesture activation area and HUD options\n- Added options to remove community posts, mixes, and playables\n- Added options to hide individual video action buttons\n- Added an option to hide the Messages button\n\n**Fixed:**\n- Improved filtering for promoted and in-feed ads\n- Fixed gestures in fullscreen\n- Fixed conflicts with YouTube's native gestures\n- Fixed Shorts downloads failing to find the active Short\n- Fixed Playback Fix causing recurring stutters during normal playback",
-          "downloadURL": "https://github.com/itzzace/ytkace/releases/download/v0.8.4/YTKACE_0.8.4_YouTube_21.32.4.ipa",
-          "size": 130750300,
-          "sha256": "c1daf170d12f60224aaf608c9544dfc2e6b94ca5d515d7c1fe144dbe554d5046",
+          "version": "21.33.5",
+          "buildVersion": "21.33.5",
+          "marketingVersion": "YouTube 21.33.5 · YTKACE 0.8.5",
+          "date": "2026-08-21T16:39:12Z",
+          "localizedDescription": "Unmodified official upstream IPA from itzzace/ytkace.\n\nby @itzzace0\n\n**What's new:**\n- Added support for YouTube 21.33.5\n- Clear Cache now reports how much space was freed\n- Hidden action buttons now reflow on iPhone so the row stays filled\n\n**Fixed:**\n- Fixed Documents & Data growing over time from leftover download files\n- Fixed Clear Cache leaving temporary download data behind\n- Fixed hiding action buttons only working when YouTube is set to English\n- Fixed hiding Like or Dislike removing both buttons\n- Fixed the action bar collapsing or reordering after hiding buttons\n- Fixed Remove Community Posts leaving a black space in the feed\n- Fixed Shorts downloads failing with \"No active Short was found\"\n- Fixed Shorts downloads sometimes fetching the wrong video\n- Fixed SponsorBlock markers not resizing when entering fullscreen",
+          "downloadURL": "https://github.com/itzzace/ytkace/releases/download/v0.8.5/YTKACE_0.8.5_YouTube_21.33.5.ipa",
+          "size": 132472455,
+          "sha256": "32ea92ed0fefedd5fef2b3932fce142d269182584ba9cf6c8d30247610212ebd",
           "minOSVersion": "16.0"
         }
       ],
